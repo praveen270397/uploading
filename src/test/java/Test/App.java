@@ -47,7 +47,7 @@ public class App extends config {
 	product_Display.product_Info();
 }
    
-   @Test(priority =4)
+   @Test(priority =5)
    public void Checkout_page_Test() {
 	
 	CheckOut.Validation();
